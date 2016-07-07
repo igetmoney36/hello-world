@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+From accounting to Data science the journey begins.
